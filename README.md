@@ -4,4 +4,4 @@ This is where I keep my programming projects. At the moment, I'm still backing u
 
 In the meantime, you can visit my LinkedIn [profile](http://linkedin.com/in/chrissembiring).
 
-_~~~Just an average Markdown newbie hopelessly reading through GitHub's documentations~~_
+_~~Just an average Markdown newbie hopelessly reading through GitHub's documentations~~_
