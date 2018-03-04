@@ -1,6 +1,6 @@
 ## Welcome to Chris Sembiring's GitHub
 
-Hi, my name's Chris, an electrical and electronic engineering student. This is where I keep most of my programming projects. To know me better, do check my LinkedIn by clicking [here](http://www.linkedin.com/chrissembiring).
+Hi, my name's Chris, an electrical and electronic engineering student. This is where I keep most of my programming projects. To know me better, do check my LinkedIn profile by clicking [here](http://www.linkedin.com/in/chrissembiring).
 
 At the moment I am still backing up my previous projects, do check back later to view more of my works.
 
