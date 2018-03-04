@@ -1,7 +1,7 @@
 ## Welcome to Chris Sembiring's GitHub
 
-This is where I keep my programming projects. At the moment, I'm still backing up most of my personal works and fixing what needs to be fixed. Do check back later.
+Hi, my name's Chris, an electrical and electronic engineering student. This is where I keep most of my programming projects. To know me better, do check my LinkedIn by clicking [here](www.linkedin.com/chrissembiring).
 
-In the meantime, you can visit my LinkedIn [profile](http://linkedin.com/in/chrissembiring).
+### ...Tap2Fly
 
-_~~Just an average Markdown newbie hopelessly reading through GitHub's documentations~~_
+[Tap2Fly](github.com/chrissembiring/Tap2Fly) is a proposed flight check-in and boarding system utilising Android OS and NFC technology. Compatible with Android 5.0 Lollipop and earlier. This project was done when I just began to learn Java, completed as a project for Nanyang Polytechnic, Singapore.
